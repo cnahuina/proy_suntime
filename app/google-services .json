@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "717868692324",
+    "firebase_url": "https://allifood-27109.firebaseio.com",
+    "project_id": "allifood-27109",
+    "storage_bucket": "allifood-27109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717868692324:android:c69955882513f2ff",
+        "android_client_info": {
+          "package_name": "com.suntimestore.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717868692324-c7lu46b0hb7glei4l16aauuh1eajkmk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxcu0p_wXYdHvZ5T_oHGwZuVafrAC7qbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

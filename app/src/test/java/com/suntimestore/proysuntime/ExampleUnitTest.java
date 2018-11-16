@@ -1,4 +1,4 @@
-package com.suntimestore.proy_suntime;
+package com.suntimestore.proysuntime;
 
 import org.junit.Test;
 

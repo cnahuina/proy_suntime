@@ -1,4 +1,4 @@
-package com.suntimestore.proy_suntime;
+package com.suntimestore.proysuntime;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.suntimestore.proy_suntime", appContext.getPackageName());
+        assertEquals("com.suntimestore.proysuntime", appContext.getPackageName());
     }
 }
